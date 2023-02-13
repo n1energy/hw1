@@ -1,5 +1,7 @@
 __all__ = ("is_prime",)
 
+print("actions!")
+
 
 def is_prime(number: int) -> bool:
     if number < 2:
