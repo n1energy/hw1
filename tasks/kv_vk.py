@@ -5,7 +5,6 @@ __all__ = (
     "flip_kv_vk_safe",
 )
 
-
 KT = TypeVar("KT")
 KV = TypeVar("KV")
 
